@@ -30,6 +30,7 @@ open bin/GalgameDemo.app
 ## 素材
 
 演示素材放在 'assets/'：
+这里分别为music，voice和picture三个文件夹
 
 - 背景：'background.png' / 'background.jpg' / 'bg.png' / 'bg.jpg'
 - 立绘：'hero.png' / 'character.png' / 'stand.png'
